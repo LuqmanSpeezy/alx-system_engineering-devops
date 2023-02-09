@@ -1,1 +1,1 @@
-shell permission for changing the superuser
+shell permissions
