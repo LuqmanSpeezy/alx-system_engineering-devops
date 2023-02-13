@@ -4,7 +4,7 @@
 3-twofiles; Displaying content of two files
 4-lastlines; Displaying last 10 lines of a file
 5-firstlines; Display the first 10 lines of a file
-6-third_line;
+6-third_line; displays the third line of the file
 7-file;
 8-cwd_state;
 9-duplicate_last_line;
